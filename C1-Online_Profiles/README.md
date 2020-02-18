@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/kayesmith94
  
 ### LinkedIn
-https://www.linkedin.com/
+https://www.linkedin.com/in/kaye-d-smith-0a379b58/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
